@@ -14,3 +14,7 @@
 <h2> Screenshots </h2>
 
 <img src="http://i.imgur.com/a2Pbc3T.png" alt="1">
+
+<img src="http://i.imgur.com/pzROyVi.png" alt="2">
+
+<img src="http://i.imgur.com/YODOy7w.png" alt="3">
